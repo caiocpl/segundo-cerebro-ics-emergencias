@@ -94,6 +94,7 @@ Cada pergunta foi feita no chat do notebook. Em cada caso cliquei nas citações
 | Material | Arquivo | Observação |
 |---|---|---|
 | Mapa mental | [`materiais/mapa-mental.png`](materiais/mapa-mental.png) | Gerado a partir das 7 fontes; mostra os 6 grandes blocos do tema (histórico, princípios e NIMS, estrutura, instalações, transferência e comando unificado, exigências da OSHA) |
+| Slides | [`materiais/slides.pdf`](materiais/slides.pdf) | Apresentação "Comando Tático de Emergências Industriais" (15 slides), gerada a partir das 7 fontes: risco da falta de sistema, 9 princípios, estrutura do comando, transferência de comando, alinhamento com a OSHA e cenário de aplicação em planta |
 | Guia de estudos | [`materiais/guia-estudos.md`](materiais/guia-estudos.md) | Questionário de 10 questões, gabarito, 5 sugestões de ensaio e glossário de termos-chave; texto do relatório do Estúdio |
 
 ---
@@ -105,6 +106,7 @@ segundo-cerebro-ics-emergencias/
 ├── README.md
 ├── materiais/
 │   ├── mapa-mental.png
+│   ├── slides.pdf
 │   └── guia-estudos.md
 └── prints/
     ├── fontes.jpg
